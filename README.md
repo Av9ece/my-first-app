@@ -15,7 +15,7 @@ This is my first React project built during my learning journey in software engi
 ## 📦 Setup
 
 1. Clone the repo:
-git clone https://github.com/YOUR-USERNAME/my-first-app.git
+git clone https://github.com/Av9ece/my-first-app.git
 
 2. Navigate into the project folder:
 cd my-first-app
