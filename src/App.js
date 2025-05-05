@@ -9,7 +9,7 @@ function App() {
         id: 1,
         name: "Thura",
         bio: "Student from Myanmar MM",
-        image: "https://i.pravatar.cc/150?img=1"
+        image: "https://scontent-nrt1-2.xx.fbcdn.net/v/t39.30808-1/490916688_668438236050502_1929275624206371102_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_ohc=SfgXG25AL6UQ7kNvwHzv7XU&_nc_oc=AdlnYgSiZ-F4YjpK-qTJT58cm3svmmNuVIq4bwersKw1fUFKb63O-cGuNs4bLDTo8-xdLpLiyiYHIc9khZoGYtOZ&_nc_zt=24&_nc_ht=scontent-nrt1-2.xx&_nc_gid=VQza3LsYUnYBuMS_2ZNcgw&oh=00_AfGMGd8WEa1U09l7r6s64g-lDfgWAZHUFXJ6-b0e3iiyqg&oe=681E66B1"
     },
     {
         id: 2,
